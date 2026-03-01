@@ -1,5 +1,6 @@
 # IMFL — Isomonodromic-Frobenius Learning
-## Painlevé Flow, Picard Arithmetic, τ-Functions, and the Frobenius Structure of Gradient Descent
+
+> Learning generalizes because τ_learn is analytic. Learning grokks because τ_learn has a pole. Learning memorizes because τ_learn diverges. Everything else is commentary.
 
 ### A Unified Framework Extension — Bridges XIII · XIV · XV
 #### Modules: IMFL · PVIL · PMGL · FMBL
